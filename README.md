@@ -34,7 +34,6 @@ Files
 
 - `F1_FinancialA nalysis Master.xlsx` - Complete Excel model (4 tabs: Raw Data, Ratio Analysis, Valuation, Summary)
 - `UK_F1_Dashboard.png` - Tableau dashboard visualization
-🎓 About
 
 Author:Sai Sanskar Gollapelli  
 Education:MSc Business Analytics, University of Exeter (First Class)  
